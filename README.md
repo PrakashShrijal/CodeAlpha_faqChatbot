@@ -1,6 +1,6 @@
 # FAQ Chatbot – NLP-Powered Customer Support Bot
 
-A complete, fully local FAQ chatbot that answers customer questions using **NLP text preprocessing**, **TF-IDF vectorization**, and **cosine similarity**. No external AI APIs, no cloud services, no API keys required.
+A complete, fully local FAQ chatbot that answers customer questions using **NLP text preprocessing**, **TF-IDF vectorization**, and **cosine similarity**.
 
 ---
 
@@ -82,7 +82,7 @@ faq-chatbot/
 
 ```bash
 # If using Git:
-git clone <your-repo-url>
+git clone [https://github.com/PrakashShrijal/CodeAlpha_faqChatbot]
 cd faq-chatbot
 
 # Or simply unzip the project and cd into it.
