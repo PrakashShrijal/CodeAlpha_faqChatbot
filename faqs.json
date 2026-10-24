@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "category": "Orders",
+    "question": "How can I track my order?",
+    "answer": "You can track your order by logging into your account, going to 'My Orders', and clicking on the order you want to track. You'll see real-time status updates and an estimated delivery date."
+  },
+  {
+    "id": 2,
+    "category": "Orders",
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order within 24 hours of placing it. Go to 'My Orders', select the order, and click 'Cancel Order'. After 24 hours, cancellation may not be possible if the order has already been shipped."
+  },
+  {
+    "id": 3,
+    "category": "Orders",
+    "question": "How long does delivery take?",
+    "answer": "Standard delivery takes 5–7 business days. Express delivery takes 2–3 business days. Same-day delivery is available in select cities for orders placed before 11 AM."
+  },
+  {
+    "id": 4,
+    "category": "Orders",
+    "question": "Can I change my delivery address after ordering?",
+    "answer": "You can change your delivery address within 1 hour of placing the order. Contact our support team or go to 'My Orders' and select 'Edit Address'. After that, address changes may not be possible."
+  },
+  {
+    "id": 5,
+    "category": "Orders",
+    "question": "What happens if my order is delayed?",
+    "answer": "If your order is delayed beyond the estimated delivery date, you will receive an email notification. You can also contact our support team and we'll investigate immediately. If the delay exceeds 10 business days, you are eligible for a full refund."
+  },
+  {
+    "id": 6,
+    "category": "Returns & Refunds",
+    "question": "What is the return policy?",
+    "answer": "We offer a 30-day return policy on most items. Products must be unused, in original packaging, and accompanied by the receipt. Some items like perishables and personalized products are not eligible for returns."
+  },
+  {
+    "id": 7,
+    "category": "Returns & Refunds",
+    "question": "How do I return a product?",
+    "answer": "To return a product, go to 'My Orders', select the item, and click 'Initiate Return'. Choose a reason, schedule a pickup, and our courier will collect the item from your address. Refunds are processed within 5–7 business days after we receive the item."
+  },
+  {
+    "id": 8,
+    "category": "Returns & Refunds",
+    "question": "When will I receive my refund?",
+    "answer": "Refunds are typically processed within 5–7 business days after we receive the returned item. The amount is credited back to your original payment method. UPI and wallet refunds are usually faster (1–2 days)."
+  },
+  {
+    "id": 9,
+    "category": "Returns & Refunds",
+    "question": "Can I exchange a product instead of returning it?",
+    "answer": "Yes! We offer exchanges on most products within 30 days of delivery. Go to 'My Orders', select the item, and choose 'Exchange' instead of 'Return'. Select the replacement item and we'll ship it once we receive the original."
+  },
+  {
+    "id": 10,
+    "category": "Returns & Refunds",
+    "question": "What should I do if I receive a damaged product?",
+    "answer": "If you receive a damaged or defective product, report it within 48 hours through 'My Orders' > 'Report Issue'. Upload photos of the damage. We'll send a replacement or issue a full refund at no extra cost."
+  },
+  {
+    "id": 11,
+    "category": "Payments",
+    "question": "What payment methods are accepted?",
+    "answer": "We accept Credit Cards, Debit Cards, Net Banking, UPI (Google Pay, PhonePe, Paytm), Wallets (Paytm, Amazon Pay), Cash on Delivery (COD), and EMI options for orders above ₹3,000."
+  },
+  {
+    "id": 12,
+    "category": "Payments",
+    "question": "Is it safe to save my card details on the website?",
+    "answer": "Yes, your card details are encrypted and stored securely using PCI-DSS compliant systems. We never store your full card number — only a tokenized version is kept for future use. You can remove saved cards anytime from 'Account Settings'."
+  },
+  {
+    "id": 13,
+    "category": "Payments",
+    "question": "My payment failed but money was deducted. What should I do?",
+    "answer": "If your payment failed but money was deducted, don't worry — this is typically a bank hold and is automatically reversed within 5–7 business days. If it isn't reversed, contact our support team with your transaction ID and we'll resolve it immediately."
+  },
+  {
+    "id": 14,
+    "category": "Payments",
+    "question": "Can I pay with cash on delivery?",
+    "answer": "Yes, Cash on Delivery (COD) is available for most orders below ₹50,000. COD availability depends on your pin code and the product category. Some products like electronics may require prepaid payment."
+  },
+  {
+    "id": 15,
+    "category": "Payments",
+    "question": "How do I apply a coupon or promo code?",
+    "answer": "Enter your coupon or promo code in the 'Apply Coupon' box on the cart or checkout page and click 'Apply'. The discount will be reflected immediately. Only one coupon can be applied per order."
+  },
+  {
+    "id": 16,
+    "category": "Account",
+    "question": "How do I create an account?",
+    "answer": "Click 'Sign Up' on the homepage, enter your name, email address, and phone number, then set a password. Verify your email address via the confirmation link sent to your inbox. Your account is ready to use!"
+  },
+  {
+    "id": 17,
+    "category": "Account",
+    "question": "I forgot my password. How do I reset it?",
+    "answer": "Click 'Forgot Password' on the login page, enter your registered email address, and we'll send you a password reset link. Click the link and create a new password. The link expires in 24 hours."
+  },
+  {
+    "id": 18,
+    "category": "Account",
+    "question": "How do I update my profile information?",
+    "answer": "Log in to your account, go to 'Account Settings' or 'My Profile', and click 'Edit'. You can update your name, email, phone number, and address. Click 'Save Changes' when done."
+  },
+  {
+    "id": 19,
+    "category": "Account",
+    "question": "Can I have multiple delivery addresses saved?",
+    "answer": "Yes, you can save up to 5 delivery addresses in your account. Go to 'Account Settings' > 'Saved Addresses' to add, edit, or delete addresses. You can set a default address for faster checkout."
+  },
+  {
+    "id": 20,
+    "category": "Account",
+    "question": "How do I delete my account?",
+    "answer": "To delete your account, go to 'Account Settings' > 'Privacy' > 'Delete Account'. Please note that all your order history, saved items, and personal data will be permanently deleted. This action cannot be undone."
+  },
+  {
+    "id": 21,
+    "category": "Products",
+    "question": "How do I search for a product?",
+    "answer": "Use the search bar at the top of the page and type keywords related to the product you're looking for. You can filter results by category, price range, brand, and ratings to narrow down your choices."
+  },
+  {
+    "id": 22,
+    "category": "Products",
+    "question": "Are the products on the website genuine?",
+    "answer": "Yes, all products sold on our platform are 100% genuine and sourced directly from authorized manufacturers or distributors. We have a strict seller verification process. Look for the 'Verified Seller' badge for extra assurance."
+  },
+  {
+    "id": 23,
+    "category": "Products",
+    "question": "How do I check product availability at my location?",
+    "answer": "On the product page, enter your pin code in the 'Check Availability' field. It will show whether the product is available for delivery to your location and the estimated delivery date."
+  },
+  {
+    "id": 24,
+    "category": "Products",
+    "question": "Can I get a product notification when it is back in stock?",
+    "answer": "Yes! On the product page for out-of-stock items, click 'Notify Me When Available'. Enter your email or enable notifications, and we'll alert you as soon as the product is restocked."
+  },
+  {
+    "id": 25,
+    "category": "Products",
+    "question": "How do I write a product review?",
+    "answer": "After receiving your order, go to 'My Orders', select the delivered item, and click 'Write a Review'. Rate the product from 1 to 5 stars, write your comments, and optionally add photos. Your review helps other buyers make informed decisions."
+  },
+  {
+    "id": 26,
+    "category": "Shipping",
+    "question": "Do you offer free shipping?",
+    "answer": "Yes, we offer free standard shipping on orders above ₹499. For orders below ₹499, a shipping fee of ₹49 applies. Express and same-day delivery have additional charges depending on your location."
+  },
+  {
+    "id": 27,
+    "category": "Shipping",
+    "question": "Do you ship internationally?",
+    "answer": "Currently, we ship within India only. We are working on expanding our delivery network internationally. Sign up for our newsletter to be notified when international shipping becomes available."
+  },
+  {
+    "id": 28,
+    "category": "Shipping",
+    "question": "What courier partners do you use for delivery?",
+    "answer": "We use trusted courier partners including Blue Dart, Delhivery, DTDC, FedEx, and Ekart Logistics. The courier assigned to your order depends on your location and the seller's logistics partner."
+  },
+  {
+    "id": 29,
+    "category": "Support",
+    "question": "How do I contact customer support?",
+    "answer": "You can reach our customer support team 24/7 via live chat on the website, email at support@shopease.com, or phone at 1800-000-0000 (toll-free). Our average response time is under 2 hours."
+  },
+  {
+    "id": 30,
+    "category": "Support",
+    "question": "What are your customer support hours?",
+    "answer": "Our customer support team is available 24 hours a day, 7 days a week, including holidays. You can reach us via live chat, email, or phone at any time."
+  },
+  {
+    "id": 31,
+    "category": "Offers",
+    "question": "How do I find current deals and discounts?",
+    "answer": "Visit our 'Deals' or 'Sale' section on the homepage to find all current offers. You can also subscribe to our newsletter or follow us on social media to get exclusive discount codes and flash sale alerts."
+  },
+  {
+    "id": 32,
+    "category": "Offers",
+    "question": "Do you have a loyalty or rewards program?",
+    "answer": "Yes! Our ShopEase Rewards program lets you earn points on every purchase. You earn 1 point per ₹10 spent. Points can be redeemed for discounts on future orders. Sign up is free from your account settings."
+  },
+  {
+    "id": 33,
+    "category": "Offers",
+    "question": "Can I use multiple discount codes together?",
+    "answer": "No, only one discount or promo code can be applied per order. However, you can combine a promo code with reward points. The best available auto-discount is applied at checkout automatically."
+  },
+  {
+    "id": 34,
+    "category": "Wishlist",
+    "question": "How do I add a product to my wishlist?",
+    "answer": "Click the heart icon on any product card or product page to add it to your wishlist. You can view and manage your wishlist from 'My Account' > 'Wishlist'. You can also share your wishlist with friends."
+  },
+  {
+    "id": 35,
+    "category": "Wishlist",
+    "question": "Can I move items from my wishlist to the cart?",
+    "answer": "Yes, go to your Wishlist, select the item you want to purchase, and click 'Move to Cart' or 'Add to Cart'. The item will be added to your shopping cart and removed from the wishlist."
+  }
+]
